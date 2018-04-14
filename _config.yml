@@ -14,7 +14,7 @@ picture: assets/images/dp/dp.png
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://github.com/cliffton/cliffton.github.io/raw/master/resume/Cliffton_Fernandes_Resume.pdf
 
 url: https://cliffton.in
 # your url: http://USERNAME.github.io
@@ -47,7 +47,7 @@ github: cliffton
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: cliffton.f@gmail.com
@@ -76,10 +76,10 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+# projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: true
+# about: true
 # blog: true
 
 # do you want to show the "read time" of the posts?
